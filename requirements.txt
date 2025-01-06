@@ -1,0 +1,11 @@
+fastapi==0.109.1
+uvicorn==0.24.0
+pyodbc==4.0.39
+python-jose[cryptography]==3.3.0
+requests==2.32.0
+python-multipart==0.0.19
+pydantic~=2.10.4
+pyjwt
+pydantic-settings
+dotenv==0.0.5
+pytest
